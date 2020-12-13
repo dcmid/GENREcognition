@@ -1,2 +1,4 @@
 fma_small/
 fma_metadata/
+*.zip
+features_all_with_headers.csv
